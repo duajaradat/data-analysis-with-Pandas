@@ -9,8 +9,8 @@ Du'a Jaradat
 
 ## Links and Resources
 
-- []()
-- []()
+- [GV-Stats](https://github.com/duajaradat/data-analysis-with-Pandas/blob/lab12/vg-stats/vg-stats.ipynb)
+- [Bike-Stats](https://github.com/duajaradat/data-analysis-with-Pandas/blob/lab12/bike-stats/bike-stats.ipynb)
 
 ---
 
